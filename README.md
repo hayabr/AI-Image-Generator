@@ -8,7 +8,7 @@
 
 📋 Project Overview  
 This is a modern and responsive web-based AI image generator.  
-Users can input text prompts, select from different styles and aspect ratios, and instantly view AI-generated images using the Vyro.ai API.
+Users can input text prompts, select from different styles and aspect ratios, and instantly view AI-generated images .
 
 The project is designed using **HTML, CSS, and JavaScript** to ensure simplicity, speed, and compatibility across all devices.
 
@@ -30,6 +30,5 @@ The project is designed using **HTML, CSS, and JavaScript** to ensure simplicity
 - **HTML5** – Webpage structure and layout.
 - **CSS3** – Styling with Poppins font, gradient backgrounds, and responsive layout.
 - **JavaScript** – API interaction, DOM updates, image generation logic.
-- **Vyro.ai API** – Backend service for AI image creation.
 
 
