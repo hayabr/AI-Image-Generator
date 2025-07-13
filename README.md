@@ -2,7 +2,7 @@
  🎨 AI Image Generator 
 
 🌐 Live Demo  
-[Click here to view the live site](https://hayabr.github.io/LevelWebsite-/](https://hayabr.github.io/AI-Image-Generator/))
+[Click here to view the live site](https://hayabr.github.io/AI-Image-Generator/)
 
 ---
 
